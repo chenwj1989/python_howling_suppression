@@ -1,7 +1,9 @@
 # pyHowling
 A Python example For Acoustic Howling Suppression 
 
+**Introduction:**
 
+![Howling Suppression using Notch Filtering](https://wjchen.net/static/posts/2020/07/Howling_Suppression.png)
 
 **Reference：**
 
